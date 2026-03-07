@@ -1,1 +1,1 @@
-# This is a README
+This directory contains materials for Basics repository-exercises
